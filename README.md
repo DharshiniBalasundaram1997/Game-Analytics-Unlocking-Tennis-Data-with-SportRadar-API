@@ -1,11 +1,9 @@
-# 🏆 Tennis Rankings Explorer
-
+![image](https://github.com/user-attachments/assets/90426714-2b83-4990-92f3-50f0e8a008b8)# 🏆 Tennis Rankings Explorer
 The **Tennis Rankings Explorer** project is a comprehensive data engineering and visualization solution built using the **Sportradar API**. It focuses on extracting, storing, analyzing, and presenting data from professional tennis competitions.
 
 ---
 
 ## 📌 Project Goals
-
 * Parse and transform sports competition data.
 * Design and maintain a structured SQL database.
 * Provide interactive insights through a Streamlit dashboard.
@@ -14,66 +12,69 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
 
 ## 🔍 Approach:
 ### 1️⃣ Data Extraction
-
 * Fetch JSON responses from Sportradar API.
 * Parse and flatten nested structures into tabular format.
 
 ### 2️⃣ Data Storage
-
 * Design normalized SQL schema.
 * Use PostgreSQL or MySQL for persistent data storage.
 * Define appropriate data types and primary keys for each table.
 
 ### 3️⃣ Data Collection
-
 **From API Endpoints:**
-
 * **Competition Data:**
-
   * `Categories` Table
   * `Competitions` Table
 
 * **Complexes Data:**
-
   * `Complexes` Table
   * `Venues` Table
 
 * **Doubles Competitor Rankings:**
-
   * `Competitor_Rankings` Table
   * `Competitors` Table
 
 ### 4️⃣ Data Analysis
-
 * Perform statistical analysis on rankings, competitors, and event metadata.
 
 ### 5️⃣ Interactive Dashboards
-
 * Built using **Streamlit** for real-time exploration of tennis rankings and event data.
-
 ---
 
 ## 🧰 Skills & Technologies
-
 * **Languages:** Python
-* **Database:** PostgreSQL / MySQL
+* **Database:** PostgreSQL / MySQL, 
 * **Framework:** Streamlit
 * **API Integration:** Sportradar API
+* **Cloud Platform:** Render (used for PostgreSQL database deployment and hosting)
 
 ---
 
 ## ✨ Demo & Usage
+        1. Execute Competition_Details.ipynb,Complexes_Details.ipynb,venues_details.ipynb,Competitors_Details.ipynb,Competitor_Rankings.ipynb,sql_queries.ipynb,Streamlit.py
+        2. Execute the above files in local postgresql or use cloud streamlit
+        3. If using Streamlit cloud, enable those connections in the python files.
+        4. Added the passwords in the .secrets folder (for cloudDB) and Added the passwords in the .pwd folder (for local DB)
+                     project directory like this:
+                         ![image](https://github.com/user-attachments/assets/77d963e9-3793-400e-94fd-91579277e090)
+                     Inside secrets.toml:
+                         host = "localhost"
+                         user = "youruser"
+                         password = "yourpassword"
+                         database = "yourdb"
+                         port = "5432"
+         5. To Set secrets in Streamlit Cloud UI:
+                 Go to Streamlit Cloud.
+                 Open your deployed app.
+                 Click the “Manage app” button (bottom right).
+                 Go to the “Secrets” tab.
+                 Add your secrets in the following format:
+                                 host = "your-db-host"
+                                 user = "your-db-user"
+                                 password = "your-db-password"
+                                 database = "your-db-name"
+                                 port = "5432"
 
-*(Add your Streamlit Cloud URL or usage instructions here)*
+
 
 ---
-
-## 📚 License
-
-*(Add license details if applicable)*
-
----
-
-## ✉️ Contact
-
-For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues).
