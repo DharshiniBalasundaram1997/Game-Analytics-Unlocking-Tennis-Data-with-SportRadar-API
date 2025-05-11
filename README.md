@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/90426714-2b83-4990-92f3-50f0e8a008b8)# 🏆 Tennis Rankings Explorer
+# 🏆 Tennis Rankings Explorer
 The **Tennis Rankings Explorer** project is a comprehensive data engineering and visualization solution built using the **Sportradar API**. It focuses on extracting, storing, analyzing, and presenting data from professional tennis competitions.
 
 ---
@@ -57,6 +57,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
         4. Added the passwords in the .secrets folder (for cloudDB) and Added the passwords in the .pwd folder (for local DB)
                      project directory like this:
                          ![image](https://github.com/user-attachments/assets/77d963e9-3793-400e-94fd-91579277e090)
+                         ![image](https://github.com/user-attachments/assets/90426714-2b83-4990-92f3-50f0e8a008b8)
                      Inside secrets.toml:
                          host = "localhost"
                          user = "youruser"
