@@ -54,11 +54,11 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
         1. Execute Competition_Details.ipynb,Complexes_Details.ipynb,venues_details.ipynb,Competitors_Details.ipynb,Competitor_Rankings.ipynb,sql_queries.ipynb,Streamlit.py
         2. Execute the above files in local postgresql or use cloud streamlit
         3. If using Streamlit cloud, enable those connections in the python files.
-        4. Added the passwords in the .secrets folder (for cloudDB) and Added the passwords in the .pwd folder (for local DB)
+        4. Added the passwords in the secrets.toml folder (for cloudDB) and Added the passwords in the pwd.toml folder (for local DB)
                      project directory like this:
-                         ![image](https://github.com/user-attachments/assets/77d963e9-3793-400e-94fd-91579277e090)
-                         ![image](https://github.com/user-attachments/assets/90426714-2b83-4990-92f3-50f0e8a008b8)
-                     Inside secrets.toml:
+                         ![image](https://github.com/user-attachments/assets/85c5adfc-17d6-4c35-bc1c-254792c64439)
+
+                     Inside secrets.toml/pwd.toml:
                          host = "localhost"
                          user = "youruser"
                          password = "yourpassword"
@@ -75,7 +75,5 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
                                  password = "your-db-password"
                                  database = "your-db-name"
                                  port = "5432"
-
-
-
+         6. Using Render for PostgreSQL database deployment and hosting. Those connections I have been using in the Streamlit Cloud
 ---
