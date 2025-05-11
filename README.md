@@ -1,32 +1,79 @@
-# Tennis_Rankings_Explorer
+# 🏆 Tennis Rankings Explorer
 
-The SportRadar Event Explorer project aims to develop a comprehensive solution for managing, visualizing, and analyzing sports competition data extracted from the Sportradar API.
+The **Tennis Rankings Explorer** project is a comprehensive data engineering and visualization solution built using the **Sportradar API**. It focuses on extracting, storing, analyzing, and presenting data from professional tennis competitions.
 
-Approach:
-  1.Data Extraction
-   ●	Parse and extract data from Sportradar JSON responses.(using API)
-   ●	Transform nested JSON structures into a flat relational schema for analysis.
-  
-  2.Data Storage: 
-   ●	Create a SQL database with well-designed schema (e.g., defining appropriate data types and primary keys).   The data to be collected is provided below.
+---
 
-  3.Data Collection:
-    1)COLLECT THE COMPETITION DATA FROM THE API ENDPOINTS:
-     	1. Categories Table
-      2. Competitions Table
-    2)COLLECT THE COMPLEXES DATA FROM THE API ENDPOINTS:
-       1. Complexes Table
-       2. Venues Table
-    3)COLLECT THE DOUBLES COMPETITOR RANKINGS DATA FROM THE API ENDPOINTS:
-       1. Competitor_Rankings Table
-       2. Competitors Table
+## 📌 Project Goals
 
-  4.Data Analysis:
-  5.Interactive dashboards:
-        Using Streamlit Application
+* Parse and transform sports competition data.
+* Design and maintain a structured SQL database.
+* Provide interactive insights through a Streamlit dashboard.
 
-Skills:
-      1.	Languages: Python
-      2.	Database: MySQL/PostgreSQL
-      3.	Application: Streamlit
-      4.	API Integration: Sportradar API
+---
+
+## 🔍 Approach:
+### 1️⃣ Data Extraction
+
+* Fetch JSON responses from Sportradar API.
+* Parse and flatten nested structures into tabular format.
+
+### 2️⃣ Data Storage
+
+* Design normalized SQL schema.
+* Use PostgreSQL or MySQL for persistent data storage.
+* Define appropriate data types and primary keys for each table.
+
+### 3️⃣ Data Collection
+
+**From API Endpoints:**
+
+* **Competition Data:**
+
+  * `Categories` Table
+  * `Competitions` Table
+
+* **Complexes Data:**
+
+  * `Complexes` Table
+  * `Venues` Table
+
+* **Doubles Competitor Rankings:**
+
+  * `Competitor_Rankings` Table
+  * `Competitors` Table
+
+### 4️⃣ Data Analysis
+
+* Perform statistical analysis on rankings, competitors, and event metadata.
+
+### 5️⃣ Interactive Dashboards
+
+* Built using **Streamlit** for real-time exploration of tennis rankings and event data.
+
+---
+
+## 🧰 Skills & Technologies
+
+* **Languages:** Python
+* **Database:** PostgreSQL / MySQL
+* **Framework:** Streamlit
+* **API Integration:** Sportradar API
+
+---
+
+## ✨ Demo & Usage
+
+*(Add your Streamlit Cloud URL or usage instructions here)*
+
+---
+
+## 📚 License
+
+*(Add license details if applicable)*
+
+---
+
+## ✉️ Contact
+
+For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues).
