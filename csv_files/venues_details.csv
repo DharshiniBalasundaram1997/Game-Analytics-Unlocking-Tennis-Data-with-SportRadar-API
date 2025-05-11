@@ -1,0 +1,658 @@
+complex_id,venue_id,venue_name,venue_city_name,venue_country_name,venue_country_code,venue_timezone
+sr:complex:705,sr:venue:70045,Cancha Central,Santiago,Chile,CHL,America/Santiago
+sr:complex:1078,sr:venue:74858,Court One,Seville,Spain,ESP,Europe/Madrid
+sr:complex:1495,sr:venue:62153,TC Dynamo,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:2375,sr:venue:77437,Campo 8,Oeiras,Portugal,PRT,Europe/Lisbon
+sr:complex:4032,sr:venue:77437,Campo 8,Oeiras,Portugal,PRT,Europe/Lisbon
+sr:complex:5520,sr:venue:77437,Campo 8,Oeiras,Portugal,PRT,Europe/Lisbon
+sr:complex:5526,sr:venue:55223,Court 2,Ostrava,Czechia,CZE,Europe/Prague
+sr:complex:6310,sr:venue:77285,Table 8,Varazdin,Croatia,HRV,Europe/Zagreb
+sr:complex:6484,sr:venue:39934,Court 3,Montpellier,France,FRA,Europe/Paris
+sr:complex:6736,sr:venue:39934,Court 3,Montpellier,France,FRA,Europe/Paris
+sr:complex:6888,sr:venue:39934,Court 3,Montpellier,France,FRA,Europe/Paris
+sr:complex:6890,sr:venue:74197,Court 1,Orleans,France,FRA,Europe/Paris
+sr:complex:6904,sr:venue:74197,Court 1,Orleans,France,FRA,Europe/Paris
+sr:complex:7048,sr:venue:72571,Pista 4,Malaga,Spain,ESP,Europe/Madrid
+sr:complex:7052,sr:venue:72571,Pista 4,Malaga,Spain,ESP,Europe/Madrid
+sr:complex:7208,sr:venue:72571,Pista 4,Malaga,Spain,ESP,Europe/Madrid
+sr:complex:7778,sr:venue:72571,Pista 4,Malaga,Spain,ESP,Europe/Madrid
+sr:complex:9725,sr:venue:23356,Court 2,Sofia,Bulgaria,BGR,Europe/Sofia
+sr:complex:10063,sr:venue:74546,Court 1,Rouen,France,FRA,Europe/Paris
+sr:complex:11769,sr:venue:67863,Cancha 3,Temuco,Chile,CHL,America/Santiago
+sr:complex:12241,sr:venue:58692,Court 12,Lyon,France,FRA,Europe/Paris
+sr:complex:15014,sr:venue:70603,Court 2,Orleans,France,FRA,Europe/Paris
+sr:complex:15371,sr:venue:68097,Campo Arpex,Andria,Italy,ITA,Europe/Rome
+sr:complex:16020,sr:venue:80523,Court TCSB,Saint-Brieuc,France,FRA,Europe/Paris
+sr:complex:16069,sr:venue:14874,Court Limak Enerji,Istanbul,Turkiye,TUR,Europe/Istanbul
+sr:complex:16612,sr:venue:77413,Court 2,Stuttgart,Germany,DEU,Europe/Berlin
+sr:complex:17254,sr:venue:77413,Court 2,Stuttgart,Germany,DEU,Europe/Berlin
+sr:complex:17945,sr:venue:22854,Centre Court,Rotterdam,Netherlands,NLD,Europe/Brussels
+sr:complex:18201,sr:venue:66121,Centre Court,London,England,ENG,Europe/London
+sr:complex:18221,sr:venue:39717,Court 1,Bol,Croatia,HRV,Europe/Zagreb
+sr:complex:19166,sr:venue:39717,Court 1,Bol,Croatia,HRV,Europe/Zagreb
+sr:complex:19737,sr:venue:62341,Court 4,Monterrey,Mexico,MEX,America/Mexico_City
+sr:complex:19951,sr:venue:1522,Court 2,Paris,France,FRA,Europe/Paris
+sr:complex:21870,sr:venue:21868,Next Gen Arena,Umag,Croatia,HRV,Europe/Zagreb
+sr:complex:21910,sr:venue:2461,Sportzentrum 3,Gstaad,Switzerland,CHE,Europe/Zurich
+sr:complex:26983,sr:venue:62731,Court 9,Marbella,Spain,ESP,Europe/Madrid
+sr:complex:26985,sr:venue:59164,Indoor Court 3,Astana,Kazakhstan,KAZ,Asia/Almaty
+sr:complex:27093,sr:venue:75825,Court 2,Canberra,Australia,AUS,Australia/ACT
+sr:complex:27095,sr:venue:59478,Court 2,Cluj Napoca,Romania,ROU,Europe/Bucharest
+sr:complex:28457,sr:venue:66063,Campo 2,Genoa,Italy,ITA,Europe/Rome
+sr:complex:28617,sr:venue:77441,Centre Court,Stuttgart,Germany,DEU,Europe/Berlin
+sr:complex:28926,sr:venue:73245,Court 4,Copenhagen,Denmark,DNK,Europe/Copenhagen
+sr:complex:32327,sr:venue:31955,Court 8,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:32403,sr:venue:31955,Court 8,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:32668,sr:venue:31955,Court 8,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:32812,sr:venue:71443,Court 4,Kallang,Singapore,SGP,Asia/Singapore
+sr:complex:33186,sr:venue:38311,Court 2,Marseille,France,FRA,Europe/Paris
+sr:complex:33188,sr:venue:68305,Court Central,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:33190,sr:venue:21642,Court 5,London,England,ENG,Europe/London
+sr:complex:33192,sr:venue:39589,Court Simonne Mathieu,Paris,France,FRA,Europe/Paris
+sr:complex:33194,sr:venue:39589,Court Simonne Mathieu,Paris,France,FRA,Europe/Paris
+sr:complex:33196,sr:venue:61865,Kia Arena,Melbourne,Australia,AUS,Australia/Melbourne
+sr:complex:33198,sr:venue:24396,Indoor 1,Shanghai,China,CHN,Asia/Shanghai
+sr:complex:33200,sr:venue:16760,Stadium,"Winston Salem, NC",USA,USA,America/New_York
+sr:complex:33204,sr:venue:16760,Stadium,"Winston Salem, NC",USA,USA,America/New_York
+sr:complex:33206,sr:venue:61851,Centre Court,Adelaide,Australia,AUS,Australia/South
+sr:complex:33208,sr:venue:8563,AJC Grandstand Court,"Atlanta, GA",USA,USA,America/New_York
+sr:complex:33210,sr:venue:21866,Center 2,"Newport, Rhode Island",USA,USA,America/New_York
+sr:complex:33214,sr:venue:64227,Court 13,Quito,Ecuador,ECU,America/Guayaquil
+sr:complex:33218,sr:venue:74171,Center Court,Zhuhai,China,CHN,Asia/Shanghai
+sr:complex:33222,sr:venue:81937,Court Guillermo Villas,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:33226,sr:venue:81937,Court Guillermo Villas,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:33228,sr:venue:15684,Court 3,Delray Beach,USA,USA,America/New_York
+sr:complex:33230,sr:venue:24488,Stadium,Luxembourg,Luxembourg,LUX,Europe/Paris
+sr:complex:33232,sr:venue:24488,Stadium,Luxembourg,Luxembourg,LUX,Europe/Paris
+sr:complex:33234,sr:venue:24488,Stadium,Luxembourg,Luxembourg,LUX,Europe/Paris
+sr:complex:33236,sr:venue:61010,Court 2,Moscow,Russia,RUS,Europe/Moscow
+sr:complex:33238,sr:venue:80457,Court 9,Osaka,Japan,JPN,Asia/Tokyo
+sr:complex:33240,sr:venue:28986,Court 7,Wuhan,China,CHN,Asia/Shanghai
+sr:complex:33242,sr:venue:34572,Court 7,Guangzhou,China,CHN,Asia/Shanghai
+sr:complex:33244,sr:venue:26447,Show Court 1,Sydney,Australia,AUS,Australia/Sydney
+sr:complex:33246,sr:venue:31499,Indoor C2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong
+sr:complex:33248,sr:venue:24252,Indoor 1,Tianjin,China,CHN,Asia/Shanghai
+sr:complex:33250,sr:venue:35102,Indoor 2,Tashkent,Uzbekistan,UZB,Asia/Tashkent
+sr:complex:33252,sr:venue:47004,Diamond,Beijing,China,CHN,Asia/Shanghai
+sr:complex:33254,sr:venue:73841,Court 9,Osaka,Japan,JPN,Asia/Tokyo
+sr:complex:33258,sr:venue:33528,Court G,"New Haven, CT",USA,USA,America/New_York
+sr:complex:33262,sr:venue:33528,Court G,"New Haven, CT",USA,USA,America/New_York
+sr:complex:33264,sr:venue:33528,Court G,"New Haven, CT",USA,USA,America/New_York
+sr:complex:33266,sr:venue:79171,Cashmere Grandstand,"Toronto, ON",Canada,CAN,Canada/Eastern
+sr:complex:33268,sr:venue:79243,Court 10,"Cincinnati, OH",USA,USA,America/New_York
+sr:complex:33270,sr:venue:79243,Court 10,"Cincinnati, OH",USA,USA,America/New_York
+sr:complex:33274,sr:venue:58624,Indoor Court 1,Strasbourg,France,FRA,Europe/Paris
+sr:complex:33276,sr:venue:18313,Indoor 6,Birmingham,England,ENG,Europe/London
+sr:complex:33278,sr:venue:28719,Court 9,Marrakech,Morocco,MAR,Africa/Casablanca
+sr:complex:33280,sr:venue:18205,Court 5,Nuremberg,Germany,DEU,Europe/Berlin
+sr:complex:33282,sr:venue:58830,Court 12,Eastbourne,England,ENG,Europe/London
+sr:complex:33286,sr:venue:72767,Practice Court 1,Prague,Czechia,CZE,Europe/Prague
+sr:complex:33288,sr:venue:72767,Practice Court 1,Prague,Czechia,CZE,Europe/Prague
+sr:complex:33290,sr:venue:62259,Grandstand 4,Doha,Qatar,QAT,Asia/Qatar
+sr:complex:33292,sr:venue:25938,Court 7,Monterrey,Mexico,MEX,America/Mexico_City
+sr:complex:33294,sr:venue:25938,Court 7,Monterrey,Mexico,MEX,America/Mexico_City
+sr:complex:33296,sr:venue:66903,Central,Rio de Janeiro,Brazil,BRA,Brazil/East
+sr:complex:33298,sr:venue:11388,Cancha 5,Acapulco,Mexico,MEX,America/Mexico_City
+sr:complex:33300,sr:venue:11388,Cancha 5,Acapulco,Mexico,MEX,America/Mexico_City
+sr:complex:33302,sr:venue:38886,Althea Gibson Club Court,"Charleston, SC",USA,USA,America/New_York
+sr:complex:33306,sr:venue:38886,Althea Gibson Club Court,"Charleston, SC",USA,USA,America/New_York
+sr:complex:33310,sr:venue:38886,Althea Gibson Club Court,"Charleston, SC",USA,USA,America/New_York
+sr:complex:33316,sr:venue:38886,Althea Gibson Club Court,"Charleston, SC",USA,USA,America/New_York
+sr:complex:33318,sr:venue:38886,Althea Gibson Club Court,"Charleston, SC",USA,USA,America/New_York
+sr:complex:33320,sr:venue:70493,Court 6,Basel,Switzerland,CHE,Europe/Zurich
+sr:complex:33322,sr:venue:24824,Next Gen Court,Vienna,Austria,AUT,Europe/Vienna
+sr:complex:33324,sr:venue:24824,Next Gen Court,Vienna,Austria,AUT,Europe/Vienna
+sr:complex:33328,sr:venue:24824,Next Gen Court,Vienna,Austria,AUT,Europe/Vienna
+sr:complex:33332,sr:venue:24824,Next Gen Court,Vienna,Austria,AUT,Europe/Vienna
+sr:complex:33334,sr:venue:13308,Center Court,Shenzhen,China,CHN,Asia/Shanghai
+sr:complex:33336,sr:venue:80995,Ct 15,Brisbane,Australia,AUS,Australia/Brisbane
+sr:complex:33338,sr:venue:53557,Head Gravity Court,Hamburg,Germany,DEU,Europe/Berlin
+sr:complex:33340,sr:venue:61435,ShowCourt,Stockholm,Sweden,SWE,Europe/Stockholm
+sr:complex:33342,sr:venue:78887,Court Stadtwerke,Kitzbuhel,Austria,AUT,Europe/Vienna
+sr:complex:33344,sr:venue:78887,Court Stadtwerke,Kitzbuhel,Austria,AUT,Europe/Vienna
+sr:complex:33346,sr:venue:30715,Stadion,Halle,Germany,DEU,Europe/Berlin
+sr:complex:33348,sr:venue:58776,Indoor 3,Nottingham,England,ENG,Europe/London
+sr:complex:33350,sr:venue:21874,Centre Court,Bastad,Sweden,SWE,Europe/Stockholm
+sr:complex:33354,sr:venue:21874,Centre Court,Bastad,Sweden,SWE,Europe/Stockholm
+sr:complex:33356,sr:venue:16173,Court 4,Geneva,Switzerland,CHE,Europe/Zurich
+sr:complex:33358,sr:venue:16173,Court 4,Geneva,Switzerland,CHE,Europe/Zurich
+sr:complex:33362,sr:venue:16173,Court 4,Geneva,Switzerland,CHE,Europe/Zurich
+sr:complex:33364,sr:venue:1896,Court 4,'s-Hertogenbosch,Netherlands,NLD,Europe/Brussels
+sr:complex:33366,sr:venue:22948,Court 9,Bucharest,Romania,ROU,Europe/Bucharest
+sr:complex:33368,sr:venue:16065,Court 2,Munich,Germany,DEU,Europe/Berlin
+sr:complex:33372,sr:venue:70759,Pista Andres Gimeno,Barcelona,Spain,ESP,Europe/Madrid
+sr:complex:33374,sr:venue:34228,Indoor Court 19,Hiroshima,Japan,JPN,Asia/Tokyo
+sr:complex:33380,sr:venue:34228,Indoor Court 19,Hiroshima,Japan,JPN,Asia/Tokyo
+sr:complex:33382,sr:venue:34228,Indoor Court 19,Hiroshima,Japan,JPN,Asia/Tokyo
+sr:complex:33386,sr:venue:34228,Indoor Court 19,Hiroshima,Japan,JPN,Asia/Tokyo
+sr:complex:33390,sr:venue:58712,Court 23,Lyon,France,FRA,Europe/Paris
+sr:complex:33392,sr:venue:34608,Center Court,Chengdu,China,CHN,Asia/Shanghai
+sr:complex:33394,sr:venue:38279,Swiss Tennis Arena,Biel,Switzerland,CHE,Europe/Zurich
+sr:complex:33400,sr:venue:38279,Swiss Tennis Arena,Biel,Switzerland,CHE,Europe/Zurich
+sr:complex:33402,sr:venue:38279,Swiss Tennis Arena,Biel,Switzerland,CHE,Europe/Zurich
+sr:complex:33406,sr:venue:38279,Swiss Tennis Arena,Biel,Switzerland,CHE,Europe/Zurich
+sr:complex:33408,sr:venue:74652,Centre Court,Shenzhen,China,CHN,Asia/Shanghai
+sr:complex:33410,sr:venue:82221,Yang-Ming Tennis Center - Court 8,Kaohsiung,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:33418,sr:venue:64279,Grandstand,Mallorca,Spain,ESP,Europe/Madrid
+sr:complex:33422,sr:venue:64279,Grandstand,Mallorca,Spain,ESP,Europe/Madrid
+sr:complex:33424,sr:venue:64279,Grandstand,Mallorca,Spain,ESP,Europe/Madrid
+sr:complex:33426,sr:venue:58524,Practice Court 1,Belgrade,Serbia,SRB,Europe/Belgrade
+sr:complex:33428,sr:venue:82565,Court 5,Copenhagen,Denmark,DNK,Europe/Copenhagen
+sr:complex:33430,sr:venue:82565,Court 5,Copenhagen,Denmark,DNK,Europe/Copenhagen
+sr:complex:33434,sr:venue:82565,Court 5,Copenhagen,Denmark,DNK,Europe/Copenhagen
+sr:complex:33436,sr:venue:58736,Court 20,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:33438,sr:venue:58736,Court 20,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:33440,sr:venue:17522,Court 3,Bangkok,Thailand,THA,Asia/Bangkok
+sr:complex:33442,sr:venue:17522,Court 3,Bangkok,Thailand,THA,Asia/Bangkok
+sr:complex:33444,sr:venue:17522,Court 3,Bangkok,Thailand,THA,Asia/Bangkok
+sr:complex:33446,sr:venue:52597,Court 12,Palermo,Italy,ITA,Europe/Rome
+sr:complex:33448,sr:venue:22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana
+sr:complex:33450,sr:venue:22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana
+sr:complex:33454,sr:venue:22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana
+sr:complex:33456,sr:venue:22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana
+sr:complex:33458,sr:venue:22362,Court A,Portoroz,Slovenia,SVN,Europe/Ljubljana
+sr:complex:33460,sr:venue:77739,Court 3,Prague,Czechia,CZE,Europe/Prague
+sr:complex:33462,sr:venue:77739,Court 3,Prague,Czechia,CZE,Europe/Prague
+sr:complex:33466,sr:venue:77739,Court 3,Prague,Czechia,CZE,Europe/Prague
+sr:complex:33468,sr:venue:58758,Steffi Graf Stadion,Berlin,Germany,DEU,Europe/Berlin
+sr:complex:33470,sr:venue:58758,Steffi Graf Stadion,Berlin,Germany,DEU,Europe/Berlin
+sr:complex:33472,sr:venue:78749,Grand Court,Budapest,Hungary,HUN,Europe/Budapest
+sr:complex:33474,sr:venue:78749,Grand Court,Budapest,Hungary,HUN,Europe/Budapest
+sr:complex:33476,sr:venue:78749,Grand Court,Budapest,Hungary,HUN,Europe/Budapest
+sr:complex:33478,sr:venue:48783,Table 1,Tokyo,Japan,JPN,Asia/Tokyo
+sr:complex:33482,sr:venue:80329,Pista Pablo Andujar,Valencia,Spain,ESP,Europe/Madrid
+sr:complex:33484,sr:venue:80329,Pista Pablo Andujar,Valencia,Spain,ESP,Europe/Madrid
+sr:complex:33486,sr:venue:35806,Court 5,Vina del Mar,Chile,CHL,America/Santiago
+sr:complex:33488,sr:venue:35806,Court 5,Vina del Mar,Chile,CHL,America/Santiago
+sr:complex:33490,sr:venue:35806,Court 5,Vina del Mar,Chile,CHL,America/Santiago
+sr:complex:33492,sr:venue:35806,Court 5,Vina del Mar,Chile,CHL,America/Santiago
+sr:complex:33808,sr:venue:1325,Grandstand,"New York, NY",USA,USA,America/New_York
+sr:complex:34336,sr:venue:1325,Grandstand,"New York, NY",USA,USA,America/New_York
+sr:complex:34586,sr:venue:55021,MKG 2,Cologne,Germany,DEU,Europe/Berlin
+sr:complex:34736,sr:venue:80217,Backer Mckenzie,Tiburon,USA,USA,America/Los_Angeles
+sr:complex:34766,sr:venue:82271,Cancha Central,Bogota,Colombia,COL,America/Bogota
+sr:complex:34812,sr:venue:24082,Indoor 2,Almaty,Kazakhstan,KAZ,Asia/Almaty
+sr:complex:34814,sr:venue:66743,Indoors,Campinas,Brazil,BRA,Brazil/East
+sr:complex:34816,sr:venue:81935,Eve Zimmerman Tennis Center - Court 3,"Stockton, CA",USA,USA,America/Los_Angeles
+sr:complex:34896,sr:venue:81935,Eve Zimmerman Tennis Center - Court 3,"Stockton, CA",USA,USA,America/Los_Angeles
+sr:complex:35048,sr:venue:60714,Pista 2,Barcelona,Spain,ESP,Europe/Madrid
+sr:complex:35052,sr:venue:79245,Estadio Brugal,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo
+sr:complex:35054,sr:venue:79245,Estadio Brugal,Santo Domingo,Dominican Republic,DOM,America/Santo_Domingo
+sr:complex:35142,sr:venue:24318,Court 3,Antwerp,Belgium,BEL,Europe/Brussels
+sr:complex:35212,sr:venue:61257,Court 1,Ismaning,Germany,DEU,Europe/Berlin
+sr:complex:35214,sr:venue:67609,Rogers Court,Calgary,Canada,CAN,America/Edmonton
+sr:complex:35236,sr:venue:80661,Indoor court 9,Ningbo,China,CHN,Asia/Shanghai
+sr:complex:35290,sr:venue:35080,Court 17,Lima,Peru,PER,America/Lima
+sr:complex:35292,sr:venue:47508,Court 5,Liuzhou,China,CHN,Asia/Shanghai
+sr:complex:35458,sr:venue:47508,Court 5,Liuzhou,China,CHN,Asia/Shanghai
+sr:complex:35512,sr:venue:35514,Brenda Meyers Court,"Charlottesville, VA",USA,USA,America/New_York
+sr:complex:35516,sr:venue:56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:35580,sr:venue:56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:35592,sr:venue:56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:35638,sr:venue:56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:35640,sr:venue:56292,Court 10,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:35642,sr:venue:15294,Court Annexe,Mouilleron-le-Captif,France,FRA,Europe/Paris
+sr:complex:35644,sr:venue:15387,Cancha 15,Montevideo,Uruguay,URY,America/Montevideo
+sr:complex:35646,sr:venue:61463,Stadium,"Knoxville, TN",USA,USA,America/New_York
+sr:complex:35648,sr:venue:17280,Court 2,Limoges,France,FRA,Europe/Paris
+sr:complex:35684,sr:venue:67729,Court C,Kobe,Japan,JPN,Asia/Tokyo
+sr:complex:35688,sr:venue:33464,KSLTA Signature - Kingfisher Stadium,Bangalore,India,IND,Asia/Kolkata
+sr:complex:35690,sr:venue:74526,Cancha 7,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:35692,sr:venue:81021,The Goldenberg Court,"Champaign, IL",USA,USA,America/Chicago
+sr:complex:35694,sr:venue:35912,Indoor 2,"Houston, TX",USA,USA,America/Chicago
+sr:complex:35870,sr:venue:36371,Court 5,Pune,India,IND,Asia/Kolkata
+sr:complex:35902,sr:venue:15373,Via Delle Querce,Andria,Italy,ITA,Europe/Rome
+sr:complex:36493,sr:venue:81619,Indoor 6,Auckland,New Zealand,NZL,Pacific/Auckland
+sr:complex:36495,sr:venue:26481,West Court,Hobart,Australia,AUS,Australia/Tasmania
+sr:complex:36497,sr:venue:39862,Indoor Court 1,"Columbus, OH",USA,USA,America/New_York
+sr:complex:36573,sr:venue:81777,Centre Court,Koblenz,Germany,DEU,Europe/Berlin
+sr:complex:36783,sr:venue:50251,Court 8,Newport Beach,USA,USA,America/Los_Angeles
+sr:complex:36785,sr:venue:35960,West Park Oval,Burnie,Australia,AUS,Australia/Tasmania
+sr:complex:36787,sr:venue:36789,Cancha 3,Punta del Este,Uruguay,URY,America/Montevideo
+sr:complex:37001,sr:venue:36789,Cancha 3,Punta del Este,Uruguay,URY,America/Montevideo
+sr:complex:37003,sr:venue:36789,Cancha 3,Punta del Este,Uruguay,URY,America/Montevideo
+sr:complex:37007,sr:venue:26741,Tennis Club De Bruz 5,Rennes,France,FRA,Europe/Paris
+sr:complex:38029,sr:venue:26741,Tennis Club De Bruz 5,Rennes,France,FRA,Europe/Paris
+sr:complex:38041,sr:venue:27033,Court 8,Launceston,Australia,AUS,Australia/Tasmania
+sr:complex:38043,sr:venue:25372,Court 1,Hua Hin,Thailand,THA,Asia/Bangkok
+sr:complex:38045,sr:venue:81737,Court Fred Le Bian,Quimper,France,FRA,Europe/Paris
+sr:complex:38047,sr:venue:76147,Stadium,"Cleveland, OH",USA,USA,America/New_York
+sr:complex:38187,sr:venue:80699,Infinity Arena,Montpellier,France,FRA,Europe/Paris
+sr:complex:38189,sr:venue:29878,Cancha 3,Cordoba,Argentina,ARG,America/Argentina/Cordoba
+sr:complex:38191,sr:venue:17754,Court 2,"Dallas, TX",USA,USA,America/Chicago
+sr:complex:38193,sr:venue:19517,Temesvari Court,Budapest,Hungary,HUN,Europe/Budapest
+sr:complex:38195,sr:venue:15481,Court 4,Chennai,India,IND,Asia/Kolkata
+sr:complex:38277,sr:venue:72027,Cancha 3,Medellin,Colombia,COL,America/Bogota
+sr:complex:38285,sr:venue:35056,Court 5,Cherbourg-Octeville,France,FRA,Europe/Paris
+sr:complex:38313,sr:venue:1674,Court 2,Dubai,United Arab Emirates,ARE,Asia/Dubai
+sr:complex:38315,sr:venue:82291,Cancha 2,Morelos,Mexico,MEX,America/Mexico_City
+sr:complex:38419,sr:venue:76087,PC2,Indian Wells,USA,USA,America/Los_Angeles
+sr:complex:38421,sr:venue:81289,Indoors 2,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:38451,sr:venue:62269,Court 3,Pau,France,FRA,Europe/Paris
+sr:complex:38483,sr:venue:62269,Court 3,Pau,France,FRA,Europe/Paris
+sr:complex:38603,sr:venue:27991,Court 11,Shenzhen,China,CHN,Asia/Shanghai
+sr:complex:38625,sr:venue:27991,Court 11,Shenzhen,China,CHN,Asia/Shanghai
+sr:complex:38631,sr:venue:62521,Court 1,"Phoenix, AZ",USA,USA,America/Phoenix
+sr:complex:38678,sr:venue:38772,Butch Buchholz,"Miami, FL",USA,USA,America/New_York
+sr:complex:38680,sr:venue:66869,Grandstand Caliente,Guadalajara,Mexico,MEX,America/Mexico_City
+sr:complex:38684,sr:venue:18037,Campo Estadio,Bogota,Colombia,COL,America/Bogota
+sr:complex:38690,sr:venue:78885,Court 14,Prague,Czechia,CZE,Europe/Prague
+sr:complex:38692,sr:venue:36527,Court 8,An-Ning,China,CHN,Asia/Shanghai
+sr:complex:38694,sr:venue:18135,Court 3,Rabat,Morocco,MAR,Africa/Casablanca
+sr:complex:38698,sr:venue:30621,Court 3,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:38702,sr:venue:30621,Court 3,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:38704,sr:venue:46548,Court 11,"Houston, TX",USA,USA,America/Chicago
+sr:complex:38712,sr:venue:31329,Court 3,Budapest,Hungary,HUN,Europe/Budapest
+sr:complex:38716,sr:venue:70599,Court CTE,Estoril,Portugal,PRT,Europe/Lisbon
+sr:complex:38720,sr:venue:21570,Court 3,Lyon,France,FRA,Europe/Paris
+sr:complex:38722,sr:venue:71581,Colosseum,Stuttgart,Germany,DEU,Europe/Berlin
+sr:complex:38732,sr:venue:38734,Court 1,Lille,France,FRA,Europe/Paris
+sr:complex:38856,sr:venue:38734,Court 1,Lille,France,FRA,Europe/Paris
+sr:complex:38858,sr:venue:38734,Court 1,Lille,France,FRA,Europe/Paris
+sr:complex:38862,sr:venue:38734,Court 1,Lille,France,FRA,Europe/Paris
+sr:complex:38882,sr:venue:74276,Pista Carlos Alcaraz,Alicante,Spain,ESP,Europe/Madrid
+sr:complex:38884,sr:venue:38984,Indoor 1,Sophia Antipolis,France,FRA,Europe/Paris
+sr:complex:38986,sr:venue:26891,Stadium,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:38988,sr:venue:18049,Altitud (C2),Barletta,Italy,ITA,Europe/Rome
+sr:complex:38990,sr:venue:62889,Pista 4,Murcia,Spain,ESP,Europe/Madrid
+sr:complex:39000,sr:venue:61098,Grandstand,Bogota,Colombia,COL,America/Bogota
+sr:complex:39093,sr:venue:17590,Ed Smith Stadium,Sarasota,USA,USA,America/New_York
+sr:complex:39095,sr:venue:82384,Grandstand,San Luis de Potosi,Mexico,MEX,America/Mexico_City
+sr:complex:39097,sr:venue:71123,Court 6,Tunis,Tunisia,TUN,Africa/Tunis
+sr:complex:39167,sr:venue:32874,Court 6,Helsinki,Finland,FIN,Europe/Helsinki
+sr:complex:39377,sr:venue:77415,Court 8,Gwangju,Republic of Korea,KOR,Asia/Seoul
+sr:complex:39379,sr:venue:14038,Court 4,Samarkand,Uzbekistan,UZB,Asia/Tashkent
+sr:complex:39381,sr:venue:29526,Court 4,Heilbronn,Germany,DEU,Europe/Berlin
+sr:complex:39383,sr:venue:80157,Indoor 3,Lisbon,Portugal,PRT,Europe/Lisbon
+sr:complex:39483,sr:venue:80157,Indoor 3,Lisbon,Portugal,PRT,Europe/Lisbon
+sr:complex:39491,sr:venue:71757,Court 10,London,England,ENG,Europe/London
+sr:complex:39493,sr:venue:21714,Duygu Aksit Oal,Antalya,Turkiye,TUR,Europe/Istanbul
+sr:complex:39503,sr:venue:43938,Court 5,"Washington, D.C.",USA,USA,America/New_York
+sr:complex:39505,sr:venue:32315,Estadio Pegaso,Los Cabos,Mexico,MEX,America/Mexico_City
+sr:complex:39507,sr:venue:42902,Court 2,Lausanne,Switzerland,CHE,Europe/Zurich
+sr:complex:39509,sr:venue:42902,Court 2,Lausanne,Switzerland,CHE,Europe/Zurich
+sr:complex:39511,sr:venue:78561,Court 2,Karlsruhe,Germany,DEU,Europe/Berlin
+sr:complex:39513,sr:venue:65219,Court 3,"San Jose, CA",USA,USA,America/Los_Angeles
+sr:complex:39515,sr:venue:2028,Court Central,"Montreal, QC",Canada,CAN,America/Toronto
+sr:complex:39591,sr:venue:78117,Indoor 6,Vicenza,Italy,ITA,Europe/Rome
+sr:complex:39653,sr:venue:78117,Indoor 6,Vicenza,Italy,ITA,Europe/Rome
+sr:complex:39852,sr:venue:82325,Pista Mercedes-Benz,Madrid,Spain,ESP,Europe/Madrid
+sr:complex:39864,sr:venue:30675,Court 7,Fergana,Uzbekistan,UZB,Asia/Tashkent
+sr:complex:39866,sr:venue:78389,Indoor 5,Blois,France,FRA,Europe/Paris
+sr:complex:39868,sr:venue:77901,Court 2,Parma,Italy,ITA,Europe/Rome
+sr:complex:39870,sr:venue:71935,Indoor Court 4,Ilkley,England,ENG,Europe/London
+sr:complex:39872,sr:venue:32633,Court 10,Bratislava,Slovakia,SVK,Europe/Bratislava
+sr:complex:39958,sr:venue:32633,Court 10,Bratislava,Slovakia,SVK,Europe/Bratislava
+sr:complex:40110,sr:venue:78551,Court 15,Milan,Italy,ITA,Europe/Rome
+sr:complex:40788,sr:venue:40792,Court 2,Recanati,Italy,ITA,Europe/Rome
+sr:complex:44124,sr:venue:65879,Court 6,"New York, NY",USA,USA,America/New_York
+sr:complex:44126,sr:venue:38443,CC,Nanchang,China,CHN,Asia/Shanghai
+sr:complex:44128,sr:venue:28711,Court 12,Zhengzhou,China,CHN,Asia/Shanghai
+sr:complex:44130,sr:venue:44132,Court 2,Metz,France,FRA,Europe/Paris
+sr:complex:44516,sr:venue:80733,Indoor 6,Tokyo,Japan,JPN,Asia/Tokyo
+sr:complex:44518,sr:venue:80371,Indoor A3,Shanghai,China,CHN,Asia/Shanghai
+sr:complex:44520,sr:venue:9485,Court 12,Seoul,Republic of Korea,KOR,Asia/Seoul
+sr:complex:44522,sr:venue:2085,Court 2,Tashkent,Uzbekistan,UZB,Asia/Tashkent
+sr:complex:44640,sr:venue:72873,Serena Maniva Centre,Cordenons,Italy,ITA,Europe/Rome
+sr:complex:46448,sr:venue:72873,Serena Maniva Centre,Cordenons,Italy,ITA,Europe/Rome
+sr:complex:46526,sr:venue:33578,Capital Group Diamond,Beijing,China,CHN,Asia/Shanghai
+sr:complex:46550,sr:venue:15054,La Foret 1,Orleans,France,FRA,Europe/Paris
+sr:complex:46552,sr:venue:34868,Grandstand,Florence,Italy,ITA,Europe/Rome
+sr:complex:47140,sr:venue:35086,Show Court,Linz,Austria,AUT,Europe/Vienna
+sr:complex:47146,sr:venue:74536,Tad Taube Court,"Fairfield, CT",USA,USA,America/New_York
+sr:complex:47302,sr:venue:949,Luzhniki Stadium,Moscow,Russia,RUS,Europe/Moscow
+sr:complex:47306,sr:venue:24342,Court 4,Ismaning,Germany,DEU,Europe/Berlin
+sr:complex:47476,sr:venue:24342,Court 4,Ismaning,Germany,DEU,Europe/Berlin
+sr:complex:47815,sr:venue:26353,Court 5,Playford City,Australia,AUS,Australia/Adelaide
+sr:complex:47817,sr:venue:25170,Court 2,Eckental,Germany,DEU,Europe/Berlin
+sr:complex:47819,sr:venue:44702,Cancha 3,Guayaquil,Ecuador,ECU,America/Guayaquil
+sr:complex:47893,sr:venue:48601,Allianz Cloud Court,Milan,Italy,ITA,Europe/Rome
+sr:complex:48779,sr:venue:48601,Allianz Cloud Court,Milan,Italy,ITA,Europe/Rome
+sr:complex:48857,sr:venue:48957,Court 4,Maia,Portugal,PRT,Europe/Lisbon
+sr:complex:49319,sr:venue:42104,Court 9,"Honolulu, HI",USA,USA,Pacific/Honolulu
+sr:complex:49633,sr:venue:49653,Court 2,Canberra,Australia,AUS,Australia/ACT
+sr:complex:49635,sr:venue:81579,Court Hertz,Noumea,New Caledonia,NCL,Pacific/Noumea
+sr:complex:49637,sr:venue:81579,Court Hertz,Noumea,New Caledonia,NCL,Pacific/Noumea
+sr:complex:49803,sr:venue:49805,Centre Court,Melbourne,Australia,AUS,Australia/Melbourne
+sr:complex:50605,sr:venue:76925,Court Jaime Fillol,Santiago,Chile,CHL,America/Santiago
+sr:complex:50973,sr:venue:57824,Campo 2,Cagliari,Italy,ITA,Europe/Rome
+sr:complex:51589,sr:venue:57824,Campo 2,Cagliari,Italy,ITA,Europe/Rome
+sr:complex:51745,sr:venue:57824,Campo 2,Cagliari,Italy,ITA,Europe/Rome
+sr:complex:51757,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51761,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51775,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51779,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51783,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51785,sr:venue:67281,Cancha Central,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:51791,sr:venue:77121,Cancha 4,Asuncion,Paraguay,PRY,America/Asuncion
+sr:complex:51795,sr:venue:77121,Cancha 4,Asuncion,Paraguay,PRY,America/Asuncion
+sr:complex:51797,sr:venue:77121,Cancha 4,Asuncion,Paraguay,PRY,America/Asuncion
+sr:complex:51805,sr:venue:77121,Cancha 4,Asuncion,Paraguay,PRY,America/Asuncion
+sr:complex:52275,sr:venue:52287,Teren 10,Zajecar,Serbia,SRB,Europe/Belgrade
+sr:complex:52289,sr:venue:52287,Teren 10,Zajecar,Serbia,SRB,Europe/Belgrade
+sr:complex:52527,sr:venue:35798,Pista 14,Castellon,Spain,ESP,Europe/Madrid
+sr:complex:52537,sr:venue:29542,Court 9,Prague,Czechia,CZE,Europe/Prague
+sr:complex:52559,sr:venue:52561,Center Court,Roehampton,England,ENG,Europe/London
+sr:complex:52665,sr:venue:52697,Center Court,"Lexington, KY",USA,USA,America/New_York
+sr:complex:53263,sr:venue:74490,Grandstand,Zhengzhou,China,CHN,Asia/Shanghai
+sr:complex:53979,sr:venue:58802,Court 2,Bad Homburg,Germany,DEU,Europe/Berlin
+sr:complex:54105,sr:venue:82507,Court 15,Rome,Italy,ITA,Europe/Rome
+sr:complex:55029,sr:venue:55027,Court 5,Sardinia,Italy,ITA,Europe/Rome
+sr:complex:56886,sr:venue:56908,Court 2,Antalya,Turkiye,TUR,Europe/Istanbul
+sr:complex:56888,sr:venue:76201,ADCB Court 1,Abu Dhabi,United Arab Emirates,ARE,Asia/Dubai
+sr:complex:57152,sr:venue:51941,Court 8,Potchefstroom,South Africa,ZAF,Africa/Johannesburg
+sr:complex:57154,sr:venue:57158,Jocker Court,Biella,Italy,ITA,Europe/Rome
+sr:complex:57188,sr:venue:57194,Cancha 2,Concepcion,Chile,CHL,America/Santiago
+sr:complex:57248,sr:venue:57250,Center Court,Kallang,Singapore,SGP,Asia/Singapore
+sr:complex:57286,sr:venue:39775,Court 12,Lyon,France,FRA,Europe/Paris
+sr:complex:57308,sr:venue:57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:57582,sr:venue:57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:57924,sr:venue:57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:57926,sr:venue:57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:57928,sr:venue:57326,Court 2,Saint Petersburg,Russia,RUS,Europe/Moscow
+sr:complex:57930,sr:venue:82061,Cancha Central,Cordoba,Argentina,ARG,America/Argentina/Cordoba
+sr:complex:57950,sr:venue:63225,Court 3,Istanbul,Turkiye,TUR,Europe/Istanbul
+sr:complex:58380,sr:venue:58386,Court 17,Zagreb,Croatia,HRV,Europe/Zagreb
+sr:complex:58572,sr:venue:58578,Court 1,Parma,Italy,ITA,Europe/Rome
+sr:complex:58652,sr:venue:39753,Indoor Ct3,"Little Rock, AR",USA,USA,America/Chicago
+sr:complex:58874,sr:venue:79055,Central Eupago,Porto,Portugal,PRT,Europe/Lisbon
+sr:complex:58972,sr:venue:31393,Center Court,Perugia,Italy,ITA,Europe/Rome
+sr:complex:59004,sr:venue:59006,Center Court,Anif,Austria,AUT,Europe/Vienna
+sr:complex:59008,sr:venue:21808,Court 12,Braunschweig,Germany,DEU,Europe/Berlin
+sr:complex:59082,sr:venue:65323,Court 6,Iasi,Romania,ROU,Europe/Bucharest
+sr:complex:59090,sr:venue:59094,Schoonderbeekbouw Court,Amersfoort,Netherlands,NLD,Europe/Brussels
+sr:complex:59096,sr:venue:64667,Court 4,Todi,Italy,ITA,Europe/Rome
+sr:complex:59204,sr:venue:59210,Court 2,Gydnia,Poland,POL,Europe/Warsaw
+sr:complex:59212,sr:venue:65327,Stadium CSC,Los Cabos,Mexico,MEX,America/Mexico_City
+sr:complex:59214,sr:venue:78889,Studenac Arena,Umag,Croatia,HRV,Europe/Zagreb
+sr:complex:59292,sr:venue:79205,Court 10,"Cary, NC",USA,USA,America/New_York
+sr:complex:59332,sr:venue:45558,Center Court Giorgi,Trieste,Italy,ITA,Europe/Rome
+sr:complex:59334,sr:venue:34046,Court 9,Trieste,Italy,ITA,Europe/Rome
+sr:complex:59348,sr:venue:81237,Court 7,"Charleston, SC",USA,USA,America/New_York
+sr:complex:59464,sr:venue:59634,Court 2,"Concord, MA",USA,USA,America/New_York
+sr:complex:59466,sr:venue:59634,Court 2,"Concord, MA",USA,USA,America/New_York
+sr:complex:59468,sr:venue:59634,Court 2,"Concord, MA",USA,USA,America/New_York
+sr:complex:59544,sr:venue:73095,INDOOR C,Liberec,Czechia,CZE,Europe/Prague
+sr:complex:59730,sr:venue:14722,Court 3,San Marino,San Marino,SMR,Europe/San_Marino
+sr:complex:59754,sr:venue:78917,Grandstand,Verona,Italy,ITA,Europe/Rome
+sr:complex:59774,sr:venue:72963,Indoor 2,Luedenscheid,Germany,DEU,Europe/Berlin
+sr:complex:59868,sr:venue:72299,Indoor 6,"Chicago, IL",USA,USA,America/Chicago
+sr:complex:59890,sr:venue:65703,Indoor 2,"Cleveland, OH",USA,USA,America/New_York
+sr:complex:59994,sr:venue:72755,Indoor 3,Warsaw,Poland,POL,Europe/Warsaw
+sr:complex:60188,sr:venue:60260,Court 1,Karlsruhe,Germany,DEU,Europe/Berlin
+sr:complex:60190,sr:venue:30073,Court 1,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo
+sr:complex:60192,sr:venue:65911,Court 2,Cassis,France,FRA,Europe/Paris
+sr:complex:60194,sr:venue:60218,Court 11,Kiev,Ukraine,UKR,Europe/Kyiv
+sr:complex:60196,sr:venue:60222,Pista 3,Seville,Spain,ESP,Europe/Madrid
+sr:complex:60198,sr:venue:73717,Grandstand,Tulln,Austria,AUT,Europe/Berlin
+sr:complex:60272,sr:venue:73697,Grand Tarabaya Court,Istanbul,Turkiye,TUR,Europe/Istanbul
+sr:complex:60274,sr:venue:60354,Cancha 8,Quito,Ecuador,ECU,America/Guayaquil
+sr:complex:60276,sr:venue:52547,Court 7,Szczecin,Poland,POL,Europe/Warsaw
+sr:complex:60350,sr:venue:65953,Court Saint Gregoire 1,Rennes,France,FRA,Europe/Paris
+sr:complex:60384,sr:venue:65953,Court Saint Gregoire 1,Rennes,France,FRA,Europe/Paris
+sr:complex:60386,sr:venue:66321,Match Court,Biel,Switzerland,CHE,Europe/Zurich
+sr:complex:60388,sr:venue:58482,Court 21,Heraklion,Greece,GRC,Europe/Athens
+sr:complex:60390,sr:venue:58482,Court 21,Heraklion,Greece,GRC,Europe/Athens
+sr:complex:60396,sr:venue:58482,Court 21,Heraklion,Greece,GRC,Europe/Athens
+sr:complex:60416,sr:venue:82455,Court 9,Bucharest,Romania,ROU,Europe/Bucharest
+sr:complex:60418,sr:venue:80279,Indoor 2,Braga,Portugal,PRT,Europe/Lisbon
+sr:complex:60420,sr:venue:60466,Court 4,Ambato,Ecuador,ECU,America/Guayaquil
+sr:complex:60538,sr:venue:18703,Court 7,Sibiu,Romania,ROU,Europe/Bucharest
+sr:complex:60540,sr:venue:73869,Court 2,"San Diego, CA",USA,USA,America/Los_Angeles
+sr:complex:60640,sr:venue:82141,Centre Court,Naples,Italy,ITA,Europe/Rome
+sr:complex:60678,sr:venue:82141,Centre Court,Naples,Italy,ITA,Europe/Rome
+sr:complex:60860,sr:venue:60884,Court 3,"Naples, FL",USA,USA,America/New_York
+sr:complex:61026,sr:venue:69613,Court 6,Santa Cruz de Tenerife,Spain,ESP,Europe/Madrid
+sr:complex:61028,sr:venue:61012,Tennis Centar Punta,Losinj,Croatia,HRV,Europe/Zagreb
+sr:complex:61333,sr:venue:67367,Palaintred,Bergamo,Italy,ITA,Europe/Rome
+sr:complex:61339,sr:venue:67397,Court 4,"Midland, Michigan",USA,USA,UTC
+sr:complex:61425,sr:venue:61467,Court 1,Roanne,France,FRA,Europe/Paris
+sr:complex:61437,sr:venue:61499,Centre Court,Turin,Italy,ITA,Europe/Rome
+sr:complex:61551,sr:venue:61639,Indoor 4,Brasilia,Brazil,BRA,Brazil/East
+sr:complex:61553,sr:venue:61603,Court 2,Manama,Bahrain,BHR,Asia/Bahrain
+sr:complex:61555,sr:venue:61659,Indoor Court,Bari,Italy,ITA,Europe/Rome
+sr:complex:61565,sr:venue:70143,Cancha Vino America,Puerto Vallarta,Mexico,MEX,America/Mexico_City
+sr:complex:61641,sr:venue:61841,Gencom,Forli,Italy,ITA,Europe/Rome
+sr:complex:61643,sr:venue:47374,Quadra 2,Sao Paulo,Brazil,BRA,America/Sao_Paulo
+sr:complex:61645,sr:venue:57028,Court 24,Antalya,Turkiye,TUR,Europe/Istanbul
+sr:complex:61707,sr:venue:57982,Court 6,Angers,France,FRA,Europe/Paris
+sr:complex:61737,sr:venue:61743,Court 2,Rio de Janeiro,Brazil,BRA,Brazil/East
+sr:complex:61761,sr:venue:79923,Court 1,Seoul,Republic of Korea,KOR,Asia/Seoul
+sr:complex:62147,sr:venue:62191,Grandstand,"Dallas, TX",USA,USA,America/Chicago
+sr:complex:62319,sr:venue:61006,Central Court,Moscow,Russia,RUS,Europe/Moscow
+sr:complex:62321,sr:venue:58190,Court 1,Las Palmas de Gran Canaria,Spain,ESP,Europe/Madrid
+sr:complex:62323,sr:venue:77903,Campo 3,Turin,Italy,ITA,Europe/Rome
+sr:complex:62391,sr:venue:77903,Campo 3,Turin,Italy,ITA,Europe/Rome
+sr:complex:62393,sr:venue:77903,Campo 3,Turin,Italy,ITA,Europe/Rome
+sr:complex:62397,sr:venue:77903,Campo 3,Turin,Italy,ITA,Europe/Rome
+sr:complex:62401,sr:venue:75829,Court B,Nonthaburi,Thailand,THA,Asia/Bangkok
+sr:complex:62403,sr:venue:75829,Court B,Nonthaburi,Thailand,THA,Asia/Bangkok
+sr:complex:62407,sr:venue:75829,Court B,Nonthaburi,Thailand,THA,Asia/Bangkok
+sr:complex:62409,sr:venue:62417,Court 3,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome
+sr:complex:62419,sr:venue:57598,Cancha 11,Santiago,Chile,CHL,America/Santiago
+sr:complex:62595,sr:venue:62703,Cancha Santiago Giraldo,Pereira,Colombia,COL,America/Bogota
+sr:complex:62617,sr:venue:39008,Indoor 1,Lugano,Switzerland,CHE,Europe/Zurich
+sr:complex:62619,sr:venue:62629,Court 4,Saint-Brieuc,France,FRA,Europe/Paris
+sr:complex:62811,sr:venue:62821,Cancha 4,Mexico City,Mexico,MEX,America/Mexico_City
+sr:complex:62823,sr:venue:72593,Cancha P. Segura,Salinas,Ecuador,ECU,America/Guayaquil
+sr:complex:62847,sr:venue:70553,Campo 2,Sanremo,Italy,ITA,Europe/Rome
+sr:complex:62903,sr:venue:57920,Court 13,Monte Carlo,Monaco,MCO,Europe/Paris
+sr:complex:62905,sr:venue:70721,Court 10,Sarasota,USA,USA,America/New_York
+sr:complex:62907,sr:venue:82295,Sporting 2,Barletta,Italy,ITA,Europe/Rome
+sr:complex:63005,sr:venue:82295,Sporting 2,Barletta,Italy,ITA,Europe/Rome
+sr:complex:63033,sr:venue:63053,Cancha 4,Aguascalientes,Mexico,MEX,America/Mexico_City
+sr:complex:63055,sr:venue:63207,Court 2,Split,Croatia,HRV,Europe/Zagreb
+sr:complex:63057,sr:venue:51857,Gene Cox Stadium,"Tallahassee, FL",USA,USA,America/New_York
+sr:complex:63059,sr:venue:60348,Court 9,Istanbul,Turkiye,TUR,Europe/Istanbul
+sr:complex:63245,sr:venue:77487,Court 4,Ostrava,Czechia,CZE,Europe/Prague
+sr:complex:63247,sr:venue:77473,SICEurope Court,Rome,Italy,ITA,Europe/Rome
+sr:complex:63249,sr:venue:70873,Atlantic Radiology Court,Savannah,USA,USA,America/New_York
+sr:complex:63309,sr:venue:77563,Indoor 2,Saint Malo,France,FRA,Europe/Paris
+sr:complex:63311,sr:venue:82491,Stadium,Mauthausen,Austria,AUT,Europe/Vienna
+sr:complex:63321,sr:venue:70975,Court Eiffage,Aix-en-Provence,France,FRA,Europe/Paris
+sr:complex:63323,sr:venue:63373,Court 4,Salvador,Brazil,BRA,America/Bahia
+sr:complex:63407,sr:venue:63493,Court 4,Bordeaux,France,FRA,Europe/Paris
+sr:complex:63409,sr:venue:66901,Cancha 3,Coquimbo,Chile,CHL,America/Santiago
+sr:complex:63427,sr:venue:57068,Court 1,Shymkent,Kazakhstan,KAZ,Asia/Almaty
+sr:complex:63429,sr:venue:71141,Court 3,Paris,France,FRA,Europe/Paris
+sr:complex:63527,sr:venue:19929,Center Court,Francavilla al Mare,Italy,ITA,Europe/Rome
+sr:complex:63649,sr:venue:63675,B and B Court,Troisdorf,Germany,DEU,Europe/Berlin
+sr:complex:63833,sr:venue:71691,Court 11,Bratislava,Slovakia,SVK,Europe/Bratislava
+sr:complex:63835,sr:venue:61997,Indoor 2,"Orlando, FL",USA,USA,America/New_York
+sr:complex:63907,sr:venue:63905,Prostejov Arena,Prostejov,Czechia,CZE,Europe/Prague
+sr:complex:63933,sr:venue:71839,Owl Arena,Halle,Germany,DEU,Europe/Berlin
+sr:complex:63935,sr:venue:71839,Owl Arena,Halle,Germany,DEU,Europe/Berlin
+sr:complex:63937,sr:venue:64217,Estadio Leonardo Mayer,Corrientes,Argentina,ARG,America/Argentina/Cordoba
+sr:complex:63941,sr:venue:58728,Centre Court,Berlin,Germany,DEU,Europe/Berlin
+sr:complex:63943,sr:venue:64261,Court 3,Gaiba,Italy,ITA,Europe/Rome
+sr:complex:64051,sr:venue:75899,Cancha 3,Buenos Aires,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:64265,sr:venue:78503,Court 11,London,England,ENG,Europe/London
+sr:complex:64369,sr:venue:64377,Court 3,Malaga,Spain,ESP,Europe/Madrid
+sr:complex:64379,sr:venue:78587,Court Amplitude,Troyes,France,FRA,US/Pacific
+sr:complex:64571,sr:venue:78681,Court 3,Salzburg,Austria,AUT,Europe/Vienna
+sr:complex:64573,sr:venue:59034,Court 4,Contrexeville,France,FRA,Europe/Paris
+sr:complex:64751,sr:venue:64795,Court 5,Rome,USA,USA,America/New_York
+sr:complex:64869,sr:venue:72609,M5,Hamburg,Germany,DEU,Europe/Berlin
+sr:complex:64871,sr:venue:64881,Court 4,"Indianapolis, IN",USA,USA,America/Indiana/Indianapolis
+sr:complex:64883,sr:venue:59228,Center Court,Pozoblanco,Spain,ESP,Europe/Madrid
+sr:complex:64885,sr:venue:31963,Court 3,Tampere,Finland,FIN,Europe/Helsinki
+sr:complex:65099,sr:venue:14410,Campo 3,San Benedetto,Italy,ITA,Europe/Rome
+sr:complex:65103,sr:venue:65187,Court 1,Winnipeg,Canada,CAN,America/Chicago
+sr:complex:65105,sr:venue:78959,Tramondo Court 2,Zug,Switzerland,CHE,Europe/Zurich
+sr:complex:65205,sr:venue:79053,Court 7,"Lexington, KY",USA,USA,America/New_York
+sr:complex:65215,sr:venue:65287,Stadium 6,Iasi,Romania,ROU,Europe/Bucharest
+sr:complex:65347,sr:venue:61014,Cancha 13,Lima,Peru,PER,America/Lima
+sr:complex:65435,sr:venue:44680,Polygon Court,West Vancouver,Canada,CAN,America/Vancouver
+sr:complex:65437,sr:venue:73217,Indoor Court 2,Kozerki,Poland,POL,Europe/Warsaw
+sr:complex:65597,sr:venue:64071,Indoor 2,Granby,Canada,CAN,Canada/Eastern
+sr:complex:65601,sr:venue:65765,Court 8,Prague,Czechia,CZE,Europe/Prague
+sr:complex:65603,sr:venue:73147,Court 2,Banja Luka,Bosnia & Herzegovina,BIH,Europe/Sarajevo
+sr:complex:65717,sr:venue:73585,TC Giussano Indoors 5,Como,Italy,ITA,Europe/Rome
+sr:complex:65719,sr:venue:65737,Center Court,Mallorca,Spain,ESP,Europe/Madrid
+sr:complex:65739,sr:venue:65749,Court 4,Toulouse,France,FRA,Europe/Paris
+sr:complex:65779,sr:venue:65749,Court 4,Toulouse,France,FRA,Europe/Paris
+sr:complex:65849,sr:venue:73779,Tato Paride Court,Bari,Italy,ITA,Europe/Rome
+sr:complex:65973,sr:venue:73779,Tato Paride Court,Bari,Italy,ITA,Europe/Rome
+sr:complex:65975,sr:venue:66887,Centre Court,Vilnius,Lithuania,LTU,Europe/Vilnius
+sr:complex:65977,sr:venue:66887,Centre Court,Vilnius,Lithuania,LTU,Europe/Vilnius
+sr:complex:65979,sr:venue:66887,Centre Court,Vilnius,Lithuania,LTU,Europe/Vilnius
+sr:complex:65981,sr:venue:77885,Court 2,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:65983,sr:venue:77885,Court 2,Taipei,Chinese Taipei,TPE,Asia/Taipei
+sr:complex:65985,sr:venue:65995,Court 4,"Columbus, OH",USA,USA,America/New_York
+sr:complex:65997,sr:venue:57744,Court Central,Villa Maria,Argentina,ARG,America/Argentina/Cordoba
+sr:complex:66093,sr:venue:66097,Centre Court,Tel Aviv,Israel,ISR,Asia/Jerusalem
+sr:complex:66187,sr:venue:35602,Court 8,Monastir,Tunisia,TUN,Africa/Tunis
+sr:complex:66559,sr:venue:35602,Court 8,Monastir,Tunisia,TUN,Africa/Tunis
+sr:complex:66565,sr:venue:74165,Court 6,Saint-Tropez,France,FRA,Europe/Paris
+sr:complex:66785,sr:venue:66879,Center Court,Busan,Republic of Korea,KOR,Asia/Seoul
+sr:complex:66787,sr:venue:74726,Court 2,Hamburg,Germany,DEU,Europe/Berlin
+sr:complex:66951,sr:venue:24056,Court 3,Ortisei,Italy,ITA,Europe/Rome
+sr:complex:66953,sr:venue:67231,Estadio,Tampico,Mexico,MEX,America/Mexico_City
+sr:complex:67275,sr:venue:67315,Center Court,Bergamo,Italy,ITA,Europe/Rome
+sr:complex:67459,sr:venue:75088,Court Indoor 11,Matsuyama,Japan,JPN,Asia/Tokyo
+sr:complex:67621,sr:venue:54901,Centre Marcel Dionne,Drummondville,Canada,CAN,America/Toronto
+sr:complex:67855,sr:venue:68163,Indoor Court 15,Yokkaichi,Japan,JPN,Asia/Tokyo
+sr:complex:68141,sr:venue:68263,Canary Islands Court,Maspalomas,Spain,ESP,Europe/Madrid
+sr:complex:68959,sr:venue:81925,Club Nautico Hacoaj - Center Court,Tigre,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:69121,sr:venue:81843,Indoor 4,Piracicaba,Brazil,BRA,America/Sao_Paulo
+sr:complex:69179,sr:venue:69279,Court 1,Ottignies-Louvain-la-Neuve,Belgium,BEL,Europe/Brussels
+sr:complex:69183,sr:venue:77493,Cancha 3,Concepcion,Chile,CHL,America/Santiago
+sr:complex:69645,sr:venue:69771,Jean Jaures,Cherbourg-en-Cotentin,France,FRA,Europe/Paris
+sr:complex:69779,sr:venue:69787,Court 3,Rome,USA,USA,America/New_York
+sr:complex:69789,sr:venue:69797,Court 3,Rovereto,Italy,ITA,Europe/Rome
+sr:complex:69799,sr:venue:69893,Estadio Akron,Mérida,Mexico,MEX,America/Mexico_City
+sr:complex:69965,sr:venue:70071,Grandstand,"Waco, TX",USA,USA,America/Chicago
+sr:complex:69971,sr:venue:82003,Court 11,"Austin, TX",USA,USA,America/Chicago
+sr:complex:70271,sr:venue:77057,12BET COURT,Birmingham,England,ENG,Europe/London
+sr:complex:70335,sr:venue:67191,Pista 3,Les Franqueses Del Valles,Spain,ESP,Europe/Madrid
+sr:complex:70345,sr:venue:66965,Court 2,Girona,Spain,ESP,Europe/Madrid
+sr:complex:70661,sr:venue:70713,Court 1,Leon,Mexico,MEX,America/Mexico_City
+sr:complex:70663,sr:venue:70803,Indoor Court,Split,Croatia,HRV,Europe/Zagreb
+sr:complex:71287,sr:venue:71409,B&B Court,Troisdorf,Germany,DEU,Europe/Berlin
+sr:complex:71431,sr:venue:58388,Pista Central,La Bisbal D Emporda,Spain,ESP,Europe/Madrid
+sr:complex:71923,sr:venue:71931,Table 4,Tunis,Tunisia,TUN,Africa/Tunis
+sr:complex:71961,sr:venue:72003,Court 3,Modena,Italy,ITA,Europe/Rome
+sr:complex:72061,sr:venue:78573,Court 1,Bloomfield Hills,USA,USA,UTC
+sr:complex:72523,sr:venue:72527,Court 1,Nice,France,FRA,Europe/Paris
+sr:complex:72533,sr:venue:65139,Pista 4,Segovia,Spain,ESP,Europe/Madrid
+sr:complex:72677,sr:venue:72883,Estadio Mextenis,Los Cabos,Mexico,MEX,America/Mexico_City
+sr:complex:73167,sr:venue:73177,Court 4,"Stanford, CA",USA,USA,America/Los_Angeles
+sr:complex:73179,sr:venue:73189,Court 3,Winnipeg,Canada,CAN,America/Chicago
+sr:complex:73191,sr:venue:73201,Court 4,Barranquilla,Colombia,COL,America/Bogota
+sr:complex:73227,sr:venue:74043,AO Arena,Manchester,England,ENG,Europe/London
+sr:complex:73463,sr:venue:23414,Indoor 12,Zhangjiagang,China,CHN,Asia/Shanghai
+sr:complex:73795,sr:venue:79835,Court 7,Ljubljana,Slovenia,SVN,Europe/Ljubljana
+sr:complex:73797,sr:venue:77715,Indoor Court,Guangzhou,China,CHN,Asia/Shanghai
+sr:complex:73807,sr:venue:74039,Cancha 2,Santa Cruz de la Sierra,Bolivia,BOL,America/La_Paz
+sr:complex:73817,sr:venue:73825,Center Court,Szczecin,Poland,POL,Europe/Warsaw
+sr:complex:73979,sr:venue:73825,Center Court,Szczecin,Poland,POL,Europe/Warsaw
+sr:complex:73981,sr:venue:73825,Center Court,Szczecin,Poland,POL,Europe/Warsaw
+sr:complex:73997,sr:venue:74005,Court 3,Antofagasta,Chile,CHL,America/Santiago
+sr:complex:74007,sr:venue:74015,Court 3,Bad Waltersdorf,Austria,AUT,Europe/Vienna
+sr:complex:74017,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74049,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74051,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74053,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74061,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74063,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74065,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74067,sr:venue:74025,Court 3,"Columbus, OH",USA,USA,America/New_York
+sr:complex:74173,sr:venue:78771,Court 4,Astana,Kazakhstan,KAZ,Asia/Almaty
+sr:complex:74183,sr:venue:74191,Court 3,Bogota,Colombia,COL,America/Bogota
+sr:complex:74193,sr:venue:80093,St Cyr En Val No.2,Orleans,France,FRA,Europe/Paris
+sr:complex:74730,sr:venue:26347,Court 2,Playford City,Australia,AUS,Australia/Adelaide
+sr:complex:74732,sr:venue:74952,Indoor 12,Curitiba,Brazil,BRA,Brazil/East
+sr:complex:74734,sr:venue:74812,Stadium 1,Tampico,Mexico,MEX,America/Mexico_City
+sr:complex:74736,sr:venue:74826,Huafa Center Court,Zhuhai,China,CHN,Asia/Shanghai
+sr:complex:74912,sr:venue:74910,Estadio Paradisus,Cancun,Mexico,MEX,America/Mexico_City
+sr:complex:74962,sr:venue:74970,Court 3,Sofia,Bulgaria,BGR,Europe/Sofia
+sr:complex:75062,sr:venue:75150,Court 1,Danderyd,Sweden,SWE,Europe/Stockholm
+sr:complex:75064,sr:venue:75150,Court 1,Danderyd,Sweden,SWE,Europe/Stockholm
+sr:complex:75066,sr:venue:75108,Court C,Kobe,Japan,JPN,Asia/Tokyo
+sr:complex:75068,sr:venue:75108,Court C,Kobe,Japan,JPN,Asia/Tokyo
+sr:complex:75070,sr:venue:75120,Grandstand,Colina,Chile,CHL,America/Santiago
+sr:complex:75192,sr:venue:75338,Quadra 4,Brasilia,Brazil,BRA,Brazil/East
+sr:complex:75200,sr:venue:81423,Indoor Court,Florianopolis,Brazil,BRA,America/Sao_Paulo
+sr:complex:75607,sr:venue:75615,Platz 4,Baden-Wurttemberg,Germany,DEU,Europe/Berlin
+sr:complex:75731,sr:venue:75735,Kurt 2,Prague,Czechia,CZE,Europe/Prague
+sr:complex:76035,sr:venue:76185,Match Court,Trinec,Czechia,CZE,Europe/Prague
+sr:complex:76037,sr:venue:81869,Cancha 2,Rosario,Argentina,ARG,America/Argentina/Buenos_Aires
+sr:complex:76089,sr:venue:1386,Match Court 1,Linz,Austria,AUT,Europe/Vienna
+sr:complex:76107,sr:venue:79789,Court 6,Guangzhou,China,CHN,Asia/Shanghai
+sr:complex:76885,sr:venue:76933,Court 2,New Delhi,India,IND,Asia/Kolkata
+sr:complex:77217,sr:venue:77261,Court 2,Barcelona,Spain,ESP,Europe/Madrid
+sr:complex:77389,sr:venue:2086,Center Court,Bucharest,Romania,ROU,Europe/Bucharest
+sr:complex:77391,sr:venue:77435,Cancha 9,San Miguel de Tucuman,Argentina,ARG,America/Argentina/Cordoba
+sr:complex:77425,sr:venue:51479,"Estadio Arena GNP Seguros (Acapulco, MEXICO)",Acapulco,Mexico,MEX,America/Mexico_City
+sr:complex:77517,sr:venue:77583,Court 2,Lleida,Spain,ESP,Europe/Madrid
+sr:complex:77595,sr:venue:77717,Center Court,Wuxi,China,CHN,Asia/Shanghai
+sr:complex:77615,sr:venue:77633,Quadra 6,Santos,Brazil,BRA,Brazil/East
+sr:complex:77763,sr:venue:82408,Court 10,Oeiras,Portugal,PRT,Europe/Lisbon
+sr:complex:77767,sr:venue:82408,Court 10,Oeiras,Portugal,PRT,Europe/Lisbon
+sr:complex:77883,sr:venue:70997,Court 2,Kachreti,Georgia,GEO,Asia/Tbilisi
+sr:complex:78093,sr:venue:78141,Court 8,Zagreb,Croatia,HRV,Europe/Zagreb
+sr:complex:78363,sr:venue:78141,Court 8,Zagreb,Croatia,HRV,Europe/Zagreb
+sr:complex:78489,sr:venue:78625,Court 4,Brasov,Romania,ROU,Europe/Bucharest
+sr:complex:78753,sr:venue:78965,Grandstand,Verona,Italy,ITA,Europe/Rome
+sr:complex:78831,sr:venue:80261,Court 2,Hong Kong,"Hong Kong, China",HKG,Asia/Hong_Kong
+sr:complex:79097,sr:venue:79153,Court 2,Bonn,Germany,DEU,Europe/Berlin
+sr:complex:79103,sr:venue:80959,Court 5,"Lincoln, NE",USA,USA,America/Chicago
+sr:complex:79281,sr:venue:34570,Court 3,Dobrich,Bulgaria,BGR,Europe/Sofia
+sr:complex:79391,sr:venue:81529,Omega Sport - Court 3,Olomouc,Czechia,CZE,Europe/Prague
+sr:complex:79459,sr:venue:72933,Court 1,Porto,Portugal,PRT,Europe/Lisbon
+sr:complex:79633,sr:venue:79653,Court 10,Giza,Egypt,EGY,Africa/Cairo
+sr:complex:79665,sr:venue:33974,Court 1,Montreux,Switzerland,CHE,Europe/Zurich
+sr:complex:79837,sr:venue:79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota
+sr:complex:79851,sr:venue:79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota
+sr:complex:79853,sr:venue:79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota
+sr:complex:79855,sr:venue:79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota
+sr:complex:79861,sr:venue:79949,Cancha 2,Santiago de Cali,Colombia,COL,America/Bogota
+sr:complex:80737,sr:venue:80811,Indoor 1,Jiujiang,China,CHN,Asia/Shanghai
+sr:complex:80851,sr:venue:80875,Grandstand,Belgrade,Serbia,SRB,Europe/Belgrade
+sr:complex:80961,sr:venue:80875,Grandstand,Belgrade,Serbia,SRB,Europe/Belgrade
+sr:complex:80963,sr:venue:81015,COURT 2,Decines-Charpieu,France,FRA,Europe/Paris
+sr:complex:81249,sr:venue:81321,Cancha 3,Manzanillo,Mexico,MEX,America/Mexico_City
+sr:complex:81543,sr:venue:81581,Headington Family Tennis Center - Court 6,"Norman, OK",USA,USA,America/Chicago
+sr:complex:81613,sr:venue:81611,Royal SC Tennis - Court 01,Noda,Japan,JPN,Asia/Tokyo
+sr:complex:81635,sr:venue:81691,LSU - Court 06,"Baton Rouge, LA",USA,USA,America/Chicago
+sr:complex:81651,sr:venue:81649,Robson Tennis Center - Court 3,"Tucson, AZ",USA,USA,America/Phoenix
+sr:complex:81661,sr:venue:81415,Wake Forest Tennis Center - Indoor - Court 05,"Winston Salem, NC",USA,USA,America/New_York
+sr:complex:81673,sr:venue:81697,Court 4,Florida City (FL),USA,USA,America/Mexico_City
+sr:complex:81681,sr:venue:81689,Tennis Courts of the SW University Neofit Rilski - Court 2,Blagoevgrad,Bulgaria,BGR,Europe/Sofia
+sr:complex:81713,sr:venue:81759,Penina Hotel and Golf Resort - 1. Court Penina,Alvor,Portugal,PRT,Europe/Lisbon
+sr:complex:81717,sr:venue:81725,Bloomington - Court 5,"Bloomington, IN",USA,USA,America/Indiana/Indianapolis
+sr:complex:81745,sr:venue:81725,Bloomington - Court 5,"Bloomington, IN",USA,USA,America/Indiana/Indianapolis
+sr:complex:81747,sr:venue:81831,Atlantis The Palm - Court 4,Dubai,United Arab Emirates,ARE,Asia/Dubai
+sr:complex:81751,sr:venue:81767,Court 1,Singapore City,Singapore,SGP,Asia/Singapore
+sr:complex:81779,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81809,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81811,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81813,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81815,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81817,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81819,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81821,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81823,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81827,sr:venue:81791,KPI Park - Court 06,Yokohama,Japan,JPN,Asia/Tokyo
+sr:complex:81977,sr:venue:81983,Green Tennis Plaza - Court 04,Kawaguchi,Japan,JPN,Asia/Tokyo
+sr:complex:81985,sr:venue:81983,Green Tennis Plaza - Court 04,Kawaguchi,Japan,JPN,Asia/Tokyo
+sr:complex:81995,sr:venue:82410,Georgia Gwinnett - Court 06,"Lawrenceville, GA",USA,USA,America/New_York
+sr:complex:82007,sr:venue:82195,Sport Center Visnjik (Clay) - Court 2,Zadar,Croatia,HRV,Europe/Zagreb
+sr:complex:82033,sr:venue:82059,Court Central,Thionville,France,FRA,Europe/Paris
+sr:complex:82065,sr:venue:82103,Cancha 1,Cap Cana,Dominican Republic,DOM,America/Santo_Domingo
+sr:complex:82109,sr:venue:82117,Manzanillo - Court 04,Manzanillo,Mexico,MEX,America/Mexico_City
+sr:complex:82131,sr:venue:82211,Grandstand Pablo Arroyo,Morelia,Mexico,MEX,America/Mexico_City
+sr:complex:82133,sr:venue:82217,Sheraton Buganvilias,Puerto Vallarta,Mexico,MEX,America/Mexico_City
+sr:complex:82197,sr:venue:82251,Tennis Club Porto Rose - Court 2,Roseto Degli Abruzzi,Italy,ITA,Europe/Rome
+sr:complex:82223,sr:venue:82231,C4 Skechers,Santiago,Chile,CHL,America/Santiago
+sr:complex:82243,sr:venue:82277,Joma Court 3,Menorca,Spain,ESP,Europe/Madrid
+sr:complex:82279,sr:venue:82285,Tenis Club Crvena Zvezda - Court 03,Belgrade,Serbia,SRB,Europe/Belgrade
+sr:complex:82301,sr:venue:82321,Court 1,Monza,Italy,ITA,Europe/Rome
+sr:complex:82313,sr:venue:82333,Carvoeiro Clube de Tenis - 08. Court Details,Carvoeiro,Portugal,PRT,Europe/Lisbon
+sr:complex:82335,sr:venue:82341,Court 7,Sarasota,USA,USA,America/New_York
+sr:complex:82343,sr:venue:82382,Central KAYDAN,Abidjan,Cote d’Ivoire,CIV,Africa/Abidjan
+sr:complex:82356,sr:venue:82392,Loughborough University - Court 05,Loughborough,England,ENG,Europe/London
+sr:complex:82415,sr:venue:82451,Mitchell Tennis Center - Texas AM - Court 04,"College Station, TX",USA,USA,America/Chicago
+sr:complex:82417,sr:venue:82479,National Tennis Center - Outdoor - Court 06,Bucharest,Romania,ROU,Europe/Bucharest
+sr:complex:82467,sr:venue:82495,Court 2,Saint Malo,France,FRA,Europe/Paris
+sr:complex:82469,sr:venue:82499,Court 3,Vic,Spain,ESP,Europe/Madrid
