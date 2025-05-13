@@ -2,9 +2,9 @@
 The **Tennis Rankings Explorer** project is a comprehensive data engineering and visualization solution built using the **Sportradar API**. It focuses on extracting, storing, analyzing, and presenting data from professional tennis competitions.
 
 ---
-
-## Domain:	Sports/Data Analytics
-
+## Domain:	
+    Sports/Data Analytics
+---
 ## 📌 Project Goals
 * Parse and transform sports competition data.
 * Design and maintain a structured SQL database.
