@@ -58,7 +58,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
         3. If using Streamlit cloud, enable those commented connections in the python files.
         4. Added the passwords in the secrets.toml folder (for cloudDB) and Added the passwords in the pwd.toml folder (for local DB)
                      project directory like this:
-                         ![image](https://github.com/user-attachments/assets/797a0bdb-1e8f-4240-84bb-54a352fabef7)
+                               ![image](https://github.com/user-attachments/assets/a3823128-8d83-4c5e-9fea-e0bde1b4bcee)
 
                      Inside secrets.toml/pwd.toml:
                          host = "localhost"
