@@ -79,9 +79,4 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
                                  port = "5432"
          6. Using Render for PostgreSQL database deployment and hosting. Those connections I have been using in the Streamlit Cloud
 
-## Dashboards:
-  ![image](https://github.com/user-attachments/assets/fb88a8c1-119f-4598-94ad-26c21f079294)
-  ![image](https://github.com/user-attachments/assets/69c7964c-d61a-49c6-a181-20a6b885346d)
-  ![image](https://github.com/user-attachments/assets/fc4e18f9-c305-4669-8d31-49ae138aa1ca)
-
 ---
