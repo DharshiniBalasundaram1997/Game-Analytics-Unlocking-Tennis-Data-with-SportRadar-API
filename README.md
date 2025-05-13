@@ -3,7 +3,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
 
 ---
 ## Domain:	
-    Sports/Data Analytics
+* Sports/Data Analytics
 ---
 ## 📌 Project Goals
 * Parse and transform sports competition data.
