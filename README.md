@@ -55,7 +55,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
 ## ✨ Demo & Usage
         1. Execute Competition_Details.ipynb,Complexes_Details.ipynb,venues_details.ipynb,Competitors_Details.ipynb,Competitor_Rankings.ipynb,sql_queries.ipynb,Streamlit.py
         2. Execute the above files in any IDE(VisualStudioCode) and for database for local use postgresql or for cloud use cloud streamlit
-        3. If using Streamlit cloud, enable those commented connections in the python files.
+        3. If using cloud, change the environment to cloud in config.json. IF using local database, then change the environment to local
         4. Added the passwords in the secrets.toml folder (for cloudDB) and Added the passwords in the pwd.toml folder (for local DB)
                      project directory like this:
                                ![image](https://github.com/user-attachments/assets/a3823128-8d83-4c5e-9fea-e0bde1b4bcee)
@@ -64,7 +64,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
                          host = "localhost"
                          user = "youruser"
                          password = "yourpassword"
-                         database = "yourdb"
+                         database = "yourdbname"
                          port = "5432"
          5. To Set secrets in Streamlit Cloud UI:
                  Go to Streamlit Cloud.
