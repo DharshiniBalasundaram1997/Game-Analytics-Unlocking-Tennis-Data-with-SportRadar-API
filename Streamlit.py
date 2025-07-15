@@ -34,19 +34,26 @@ except json.JSONDecodeError:
 except KeyError:
     raise KeyError("⚠️ 'environment' key not found in config.json.")
 
-# Load secrets from your custom toml file
-local_secrets = toml.load("pwd.toml")
 
 
-# Append the directory where db_utils.py is located
-sys.path.append(os.path.abspath('C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project1/Tennis_Data_SportRadar'))
+# # Load secrets from your custom toml file
+# local_secrets = toml.load("pwd.toml")
 
-from db_utils import connect_to_postgres, connect_to_sportradar
+
+# # Append the directory where db_utils.py is located
+# sys.path.append(os.path.abspath('C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project1/Tennis_Data_SportRadar'))
+
+# from db_utils import connect_to_postgres, connect_to_sportradar
 
 #DataBase Connection Details
 try:  
     # Connect to default DB and create target DB if needed
-    my_db_connection = connect_to_postgres(env, local_secrets) #connect to existing database first
+    # my_db_connection = connect_to_postgres(env, local_secrets) #connect to existing database first
+    my_db_connection = psycopg2.connect(
+    host=st.secrets["database"]["host"],
+    database=st.secrets["database"]["database"],
+    user=st.secrets["database"]["user"],
+    password=st.secrets["database"]["password"])
     
     # Set autocommit so CREATE DATABASE works
     my_db_connection.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
