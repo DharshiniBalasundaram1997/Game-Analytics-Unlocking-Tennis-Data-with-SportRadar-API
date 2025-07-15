@@ -23,7 +23,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 
 # Load environment
 try:
-    with open("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project1/Tennis_Data_SportRadar/config.json", "r") as f:
+    with open("config.json", "r") as f:
         config = json.load(f)
 
     env = config["environment"] # 'local' or 'cloud'
