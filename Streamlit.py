@@ -50,10 +50,11 @@ try:
     # Connect to default DB and create target DB if needed
     # my_db_connection = connect_to_postgres(env, local_secrets) #connect to existing database first
     my_db_connection = psycopg2.connect(
-    host=st.secrets["database"]["host"],
-    database=st.secrets["database"]["database"],
-    user=st.secrets["database"]["user"],
-    password=st.secrets["database"]["password"])
+        host=st.secrets["database"]["host"],
+        port=st.secrets["database"]["port"],
+        user=st.secrets["database"]["user"],
+        password=st.secrets["database"]["password"],
+        dbname=st.secrets["database"]["dbname"])
     
     # Set autocommit so CREATE DATABASE works
     my_db_connection.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
