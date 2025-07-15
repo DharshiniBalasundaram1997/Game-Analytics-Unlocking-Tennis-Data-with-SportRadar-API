@@ -74,7 +74,13 @@ try:
     my_db_connection.close()
     
     # Reconnect to the newly ensured 'sportradar' database
-    my_db_connection = connect_to_sportradar(env, local_secrets)
+    # my_db_connection = connect_to_sportradar(env, local_secrets)
+    my_db_connection = psycopg2.connect(
+        host=st.secrets["database"]["host"],
+        port=st.secrets["database"]["port"],
+        user=st.secrets["database"]["user"],
+        password=st.secrets["database"]["password"],
+        dbname=st.secrets["database"]["dbname"])
     
     my_db_connection.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
     
