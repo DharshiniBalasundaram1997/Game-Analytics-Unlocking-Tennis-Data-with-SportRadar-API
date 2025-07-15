@@ -35,7 +35,7 @@ except KeyError:
     raise KeyError("⚠️ 'environment' key not found in config.json.")
 
 # Load secrets from your custom toml file
-local_secrets = toml.load("C:/Users/dhars/Downloads/Dhass/codeing/GUVI/2. MainBoot/4.Project_Code/Project1/Tennis_Data_SportRadar/.pwd/pwd.toml")
+local_secrets = toml.load("pwd.toml")
 
 
 # Append the directory where db_utils.py is located
